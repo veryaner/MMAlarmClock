@@ -1,2 +1,2 @@
 # MMAlarmClock
-Alarm Clock for Magic Mirro 2
+Alarm Clock for Magic Mirror 2
